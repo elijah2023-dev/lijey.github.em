@@ -569,7 +569,7 @@ text-transform: capitalize;
 .service .container
 {
  padding-bottom: 40px;  
-
+padding-left: 15%;
 }
 
 .service .service-item
@@ -636,7 +636,7 @@ text-transform: capitalize;
 .portfolio .container
 {
 padding-bottom: 40px;
-
+padding-left: 15%;
 }
 .portfolio .portfolio-heading
 {
@@ -668,6 +668,13 @@ margin-bottom: 40px;
     display: block;
 }
 /* contact */
+.contact .container
+{
+padding-bottom: 40px;
+padding-left: 15%;
+
+
+}
 .contact-title
 {
     color: var(--skin-color);
@@ -815,6 +822,7 @@ max-width: 100%;
   } 
   
 }
+
 
 
 
